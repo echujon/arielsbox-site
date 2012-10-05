@@ -1,0 +1,78 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Efrain Chu-Jon joined group chat.
+me
+9:37 PM
+--schema can't go in github due to space restrictions
+aka sql stuff
+--register page only doing user name, email, password
+so far
+Efrain Chu-Jon
+9:39 PM
+echujon
+http://bharat.whiteboard.jit.su/
+me
+9:51 PM
+--email verification discussed
+--efrain commits to finish by next meeting
+--git question, comiting to trunk
+Efrain Chu-Jon
+9:51 PM
+http://jenkins-ci.org/
+me
+9:54 PM
+branch first, then check into trunk
+--jenkins-ci to help with unit tests, sanity checks before pushing items to trunk
+Efrain Chu-Jon
+9:54 PM
+http://jenkins-php.org/
+me
+9:57 PM
+--any good tools for writing html? or any good time saving hints?
+Efrain Chu-Jon
+10:02 PM
+http://www.smashingapps.com/2011/03/29/40-excellent-yet-free-css-tools-and-generators-for-developers.html
+me
+10:04 PM
+--if anybody has something to recommend, it would be nice to know, but it is not essential that we have one
+Efrain Chu-Jon
+10:07 PM
+http://www.dataone.com.au/images/database-developed-schema.jpg
+http://mergate.com/images/schema_design1.png
+me
+10:09 PM
+--discussing schema
+Efrain Chu-Jon
+10:09 PM
+http://i.technet.microsoft.com/dynimg/IC210940.gif
+Efrain Chu-Jon
+10:16 PM
+user_id
+User_name, User_password
+User table
+Stories
+story_id
+name
+text
+pictures]
+Story table
+user_id
+page_number
+Page Table
+picture
+text
+page_number
+page_id
+me
+10:55 PM
+http://bharat.whiteboard.jit.su/  Arielsbox
+--Cory to get his sql server installation working
+--Efrain to setup schema
+-foreign keys connect to other tables
